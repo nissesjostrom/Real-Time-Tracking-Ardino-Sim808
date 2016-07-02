@@ -19,7 +19,7 @@ char aux;
 int x = 0;
 char N_S,W_E;
 
-char url[] = "pruebas.libelium.com";
+char url[] = "http://realtimetracking.azurewebsites.net/";
 char frame[200];
 
 char latitude[15];

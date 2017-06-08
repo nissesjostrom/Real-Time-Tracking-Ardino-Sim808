@@ -1,3 +1,5 @@
+Forked from salmanfarisvp
+Thingspeak/GotoGoats adaptation
 # Real-Time-Tracking-Ardino-GPS-GSM-
 
 in here we can track our things like Bike or Car Real-time with the help of the arduino 
